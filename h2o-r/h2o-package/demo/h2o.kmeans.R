@@ -1,6 +1,6 @@
 # This is a demo of H2O's K-Means function
 # It imports a data set, parses it, and prints a summary
-# Then, it runs K-Means with k = 5 centers on a subset of characteristics
+# Then, it runs K-Means with k = 10 centers on a subset of characteristics
 # Note: This demo runs H2O on localhost:54321
 library(h2o)
 h2o.init()
